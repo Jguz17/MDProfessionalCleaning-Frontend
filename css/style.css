@@ -247,7 +247,7 @@ section {
 .base-header h3::before {
   position: absolute;
   content: "";
-  background-color: #6382f7;
+  background-color: #56C3F9;
 }
 
 #preloader {
@@ -398,7 +398,7 @@ section {
 }
 
 .header_socil li .fa:hover {
-  color: #6382f7;
+  color: #56C3F9;
 }
 
 .header_top_left {
@@ -435,7 +435,7 @@ section {
 
 .header_top_right li i {
   margin-right: 10px;
-  color: #6382f7;
+  color: #56C3F9;
   font-size: 15px;
   position: relative;
   top: 1px;
@@ -649,7 +649,7 @@ section {
 }
 
 #navigation > ul > li:hover > a {
-  color: #6382f7 !important;
+  color: #56C3F9 !important;
 }
 
 #navigation ul ul {
@@ -767,7 +767,7 @@ section {
 
 #navigation.small-screen ul ul li:hover > a,
   #navigation.small-screen ul ul li.active > a {
-  color: #6382f7;
+  color: #56C3F9;
 }
 
 #navigation.small-screen ul ul,
@@ -989,11 +989,11 @@ section {
   /*  Slider Area Styling */
   
 .slide_bg_1 {
-  background: #f0f0f0 url("../images/slider2.jpg") no-repeat scroll right center;
+  background: #f0f0f0 url("../images/slider-1.jpg") no-repeat scroll right center;
 }
 
 .slide_bg_2 {
-  background: #f0f0f0 url("../images/slider1.jpg") no-repeat scroll right center;
+  background: #f0f0f0 url("../images/slider-2.jpg") no-repeat scroll right center;
 }
 
 .slide_bg_3 {
@@ -1096,6 +1096,7 @@ section {
 
 .slider_btn_one {
   margin-right: -6px;
+  background-color: #56C3F9;
 }
 
 .slider_btn_two {
@@ -1106,16 +1107,16 @@ section {
 }
 
 .slider_btn_two.more-link::before {
-  background: #6382f7;
+  background: #56C3F9;
 }
 
 .slider_btn_one:hover {
-  color: #6382f7;
+  color: #56C3F9;
 }
 
 .slider_btn_two:hover {
   color: #fff;
-  border: 1px solid #6382f7;
+  border: 1px solid #56C3F9;
 }
 
 .slides_wrapper {
@@ -1305,7 +1306,7 @@ section {
 
 .about-section .more-link {
   background: #fff;
-  color: #6382f7;
+  color: #56C3F9;
   margin-top: 10px;
 }
 
@@ -2214,7 +2215,7 @@ header {
 }
 
 .about_pg .more-link {
-  background: #6382f7;
+  background: #56C3F9;
   color: #fff;
 }
 
@@ -2422,11 +2423,11 @@ header {
 }
 
 .single_service_cat ul li:hover a {
-  color: #6382f7;
+  color: #56C3F9;
 }
 
 .single_service_cat ul li:hover:after {
-  color: #6382f7;
+  color: #56C3F9;
 }
 
 .single_service_cat ul li a {
