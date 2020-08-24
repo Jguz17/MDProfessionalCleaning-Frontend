@@ -9,7 +9,7 @@ const submitFormData = (e) => {
 
     const messageObj = ({ user_id: 1, name, email, phone, content })
 
-    fetch('http://localhost:3000/api/v1/messages', {
+    fetch('https://mdprofessionalcleaning-api.herokuapp.com/api/v1/messages', {
         method: 'POST',
         headers: {
             "Content-Type": "application/json",
